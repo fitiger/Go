@@ -18,5 +18,7 @@
 | LeetCode 82  | [day 11](LeetCode/Linked_List/82/82.go)   | Remove Duplicates from Sorted List ii     |
 | LeetCode 206 | [day 11](LeetCode/Linked_List/206/206.go) | Reverse Linked List                       |
 | LeetCode 92  | [day 12](LeetCode/Linked_List/92/92.go)   | Reverse Linked List ii                    |
+| LeetCode 21  | [day 13](LeetCode/Linked_List/21/21.go)   | Merge Two Sorted Lists                   |
+
   人菜就要多努力！多看看别人的代码，自己写的真的很垃圾！
   8.13 没有对比就没有差距，看了别人的代码再看自己实在是太菜了啊！！！！
