@@ -20,5 +20,8 @@
 | LeetCode 92  | [day 12](LeetCode/Linked_List/92/92.go)   | Reverse Linked List ii                    |
 | LeetCode 21  | [day 13](LeetCode/Linked_List/21/21.go)   | Merge Two Sorted Lists                    |
 | LeetCode 86  | [day 14](LeetCode/Linked_List/86/86.go)   | Partition List                            |
-  人菜就要多努力！多看看别人的代码，自己写的真的很垃圾！
-  8.13 没有对比就没有差距，看了别人的代码再看自己实在是太菜了啊！！！！
+| LeetCode 148  | [day 15](LeetCode/Linked_List/148/148.go)   | Sort List                            |
+| LeetCode 143  | [day 16](LeetCode/Linked_List/143/143.go)   | Reorder List                            |
+
+- 人菜就要多努力！多看看别人的代码，自己写的真的很垃圾！
+- 8.13 没有对比就没有差距，看了别人的代码再看自己实在是太菜了啊！！！！
