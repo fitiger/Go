@@ -1,5 +1,12 @@
 # GO learning notes
 
+
+## 刷题不能够变强还是需要系统化的训练
+
+2021.08.25 学习 [Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+
+## LeetCode
+
 每天刷一道题！Go！Go！Go！
 
 | Name         | File                                      | Description                               |
